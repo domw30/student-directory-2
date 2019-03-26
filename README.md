@@ -6,5 +6,11 @@ Villians Academy.
 ## How to use ##
 
 ```shell
-ruby directory.rb
+ruby directory.rb 
 ```
+
+To load data from students.csv file:
+
+```shell
+ruby directory.rb students.csv
+````
